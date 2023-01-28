@@ -1,4 +1,4 @@
-# Shadow-Spider
+# DarkWebCrawler-Tor
 Darkweb crawler prototype to crawl online sites selling drugs that operates in the shadows. 
 
 ### Objective
